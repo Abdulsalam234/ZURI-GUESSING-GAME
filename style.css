@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: purple;
+  color: white;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+a{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: #8076a3;
+}
+#foot{
+  font-size: 15px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #7c677f;
+  color: white;
+  text-align: center;
+}
